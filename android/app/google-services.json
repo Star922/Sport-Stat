@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "776400364622",
+    "project_id": "smartforce-test",
+    "storage_bucket": "smartforce-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776400364622:android:cee569fba1036939efcf1f",
+        "android_client_info": {
+          "package_name": "com.example.smartforce_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776400364622-hs0i398kp9cakr4kiusbcdce974a8o00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy849R7kezc84ixWKU-K5UB-Fxi3ccWrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776400364622-hs0i398kp9cakr4kiusbcdce974a8o00.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
